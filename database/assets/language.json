@@ -1,0 +1,30 @@
+{
+  "indonesia": {
+    "groupAdmin": "Maaf! Perintah ini khusus admin grup",
+    "botAdmin": "Maaf! Perintah ini khusus admin bot",
+    "group": "Maaf! Perintah ini hanya bisa di gunakan dalam grup",
+    "private": "Maaf! Perintah ini hanya bisa di gunakan dalam pesan pribadi",
+    "process": {
+      "wait": "Permintaan anda sedang di proses!",
+      "success": "Permintaan anda berhasil di proses!",
+      "error": {
+        "commands": "Maaf! Fitur ini sedang error!",
+        "server": "Maaf! Server sedang error!"
+      }
+    }
+  }, {
+  "english": {
+    "groupAdmin": "Sorry! This command is group admin-only",
+    "botAdmin": "Sorry! This command is admin-only",
+    "group": "Sorry! This command can only be used in groups",
+    "private": "Sorry! This command can only be used in private messages",
+    "process": {
+      "wait": "Your request is in progress!",
+      "success": "Your request was successfully processed!",
+      "error": {
+        "commands": "Sorry! This feature is crashing!",
+        "server": "Sorry! The server is crashing!"
+      }
+    }
+  }
+}
